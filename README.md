@@ -1,5 +1,7 @@
 # Manifold Learning Project
 
+In this project, we implement some of the methods presented in [Dimensionality Reduciton Review by Maaten et al.](https://lvdmaaten.github.io/publications/papers/TR_Dimensionality_Reduction_Review_2009.pdf)
+
 ### Authors : 
 * Mouad LARIBIA *mouad.laribia@univ-lyon2.fr*
 * Imene KERBOUA *imene.kerboua@univ-lyon2.fr*
